@@ -17,6 +17,8 @@ class Home extends Component {
             <li>Criminology and Forensics</li>
         </ul>
         <h3>Explore each of our pathways above to learn about what we do at Richmond Hill!</h3>
+
+        <iframe id="video" src="https://www.youtube.com/embed/ifo76VyrBYo" title="Introduction to Computer Programming | What is it? Programming Language Types" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     );
   }
